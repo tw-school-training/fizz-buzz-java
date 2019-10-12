@@ -1,3 +1,5 @@
+package com.thoughtworks;
+
 public class HelloWorld {
     private Dependency dependency;
 
